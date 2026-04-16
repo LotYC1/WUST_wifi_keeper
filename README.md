@@ -9,7 +9,7 @@
 * **日志记录**：内置日志查看器，随时追踪网络状态。
 
 ## 快速开始（普通用户）
-1. 前往右侧的 [Releases](#) 页面下载最新版本的 `wifi_keeper.exe`。
+1. 前往右侧的 [Releases](https://github.com/LotYC1/WUST_wifi_keeper/releases/latest) 页面下载最新版本的 `wifi_keeper.exe`。
 2. 双击运行，在弹出的窗口中填入：
    * **Wi-Fi 名称** (如: `WUST-WiFi6`)
    * **学号** 和 **密码**
